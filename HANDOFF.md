@@ -2,7 +2,7 @@
 
 ## Project
 
-- Separate project: `/Users/ismaailallaham/rasekh-huge-home`
+- Separate project: `rasekh-huge-home` (standalone repo)
 - Stack: React, TypeScript, Vite, plain CSS
 - Current scope: homepage only
 - Existing RASEKH website was not modified
